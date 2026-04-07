@@ -43,4 +43,4 @@ These Terms shall be governed by and construed in accordance with the laws of th
 **Announcement Date:** April 7, 2026
 **Effective Date:** April 7, 2026
 **Company:** Taehaerin
-**Contact:** babo79yo@gmail.com
+**Contact:** gachirok.official@gmail.com
