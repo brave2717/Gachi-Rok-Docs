@@ -51,4 +51,4 @@
 **공고 일자:** 2026년 4월 7일
 **시행 일자:** 2026년 4월 7일
 **상호명:** 태해린 (Taehaerin)
-**문의:** babo79yo@gmail.com
+**문의:** gachirok.official@gmail.com
