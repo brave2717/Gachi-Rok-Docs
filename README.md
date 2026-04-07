@@ -1,6 +1,8 @@
-## 📄 법적 고지 (Legal)
+## ⚖️ 정책 및 규정 (Policies)
 
-가치록(Gachi-Rok) 서비스 이용 및 개인정보 보호에 관한 상세 내용은 아래 문서를 참조하세요.
-
-* [이용약관 (Terms of Service)](./kr_terms_of_service.md)
-* [개인정보 처리방침 (Privacy Policy)](./kr_privacy_policy.md)
+| 구분 (Category) | 문서 링크 (Document Link) | 최종 수정일 (Last Updated) |
+| :--- | :--- | :--- |
+| **이용약관 (KR)** | [바로가기](./kr_terms_of_service.md) | 2026. 04. 07. |
+| **Terms of Service (EN)** | [View Details](./en_terms_of_service.md) | 2026. 04. 07. |
+| **개인정보 처리방침 (KR)** | [바로가기](./kr_privacy_policy.md) | 2026. 04. 07. |
+| **Privacy Policy (EN)** | [View Details](./en_privacy_policy.md) | 2026. 04. 07. |
