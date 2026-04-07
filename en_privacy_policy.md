@@ -28,7 +28,7 @@ Users have full control over their data and can manage it at any time by deletin
 ### 6. Contact Information
 If you have any questions regarding this policy, please contact us at:
 * **Company:** Taehaerin
-* **Email:** babo79yo@gmail.com
+* **Email:** gachirok.official@gmail.com
 
 ### 7. Notification of Changes
 This policy may be updated due to changes in laws or services. Any updates will be notified through the App or the app store listing.
